@@ -30,7 +30,7 @@ public class FareInfo extends HttpServlet {
      * @see HttpServlet#HttpServlet()
      */
     public FareInfo() {
-        super();
+        super(); 
         // TODO Auto-generated constructor stub
     }
 
